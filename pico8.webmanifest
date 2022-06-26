@@ -1,0 +1,15 @@
+{
+    "background_color": "black",
+    "description": "Pico 8 fantasy console",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "pico8.png",
+        "sizes": "288x288",
+        "type": "image/png"
+      }
+    ],
+    "name": "Pico 8 Education Edition",
+    "short_name": "Pico 8",
+    "start_url": "index.html"
+}  
